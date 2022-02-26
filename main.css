@@ -1,0 +1,36 @@
+html body {
+    background: rgb(9, 8, 39) !important;
+}
+
+.app-theme-white .app-page-title {
+    background: rgb(9, 8, 39) !important;
+}
+
+.app-theme-white .app-footer .app-footer__inner, .app-theme-white .app-header  {
+    background: rgb(9, 8, 39) !important;
+
+}
+
+.app-main__inner {
+    background: rgb(9, 8, 39) !important;
+
+}
+
+
+.card {
+    background: #181818 !important;
+}
+
+.list-group-item {
+    background: rgb(9, 8, 39) !important;
+}
+
+.card-header {
+    background: rgb(9, 8, 39) !important;
+}
+
+div{
+    color: whitesmoke !important;
+}
+
+

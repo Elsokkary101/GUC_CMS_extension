@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name" : "GUC CMS extension",
+    "description" : "black mode of CMS and downloading files and PDF's according to its regular names",
+    "version"  : "1.0",
+    "icons" : {
+        "16" : "/image/GUC16.jpg",
+        "48" : "/image/GUC48.jpg",
+        "128" : "/image/GUC128.jpg"
+    },
+    "page_action" : {
+        "default_icon" : {
+            "16":"/image/GUC16.jpg",
+            "48":"/image/GUC48.jpg",
+            "128":"/image/GUC128.jpg"
+        }
+    },
+    "content_scripts" :[{
+        "matches" : ["https://cms.guc.edu.eg/apps/student/*"],
+        "css": ["main.css"]
+    }]
+}
