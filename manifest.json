@@ -17,6 +17,7 @@
     },
     "content_scripts" :[{
         "matches" : ["https://cms.guc.edu.eg/apps/student/*"],
-        "css": ["main.css"]
+        "css": ["main.css"],
+        "js": ["main.js"]
     }]
 }
