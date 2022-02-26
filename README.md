@@ -7,7 +7,7 @@
 
 ### - Run this command to download files
 ```
-- (git clone https://github.com/Elsokkary101/GUC_CMS_extension.git)
+git clone https://github.com/Elsokkary101/GUC_CMS_extension.git)
 ```
 ### - Add this extension in your chrome extension 
 ### - open your CMS account and enjoy 😋
