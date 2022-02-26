@@ -1,32 +1,39 @@
 html body {
-    background: rgb(9, 8, 39) !important;
+    background: #181818 !important;
 }
 
 .app-theme-white .app-page-title {
-    background: rgb(9, 8, 39) !important;
+    background: #181818 !important;
 }
 
 .app-theme-white .app-footer .app-footer__inner, .app-theme-white .app-header  {
-    background: rgb(9, 8, 39) !important;
+    background: #181818 !important;
 
 }
 
 .app-main__inner {
-    background: rgb(9, 8, 39) !important;
+    background: #181818 !important;
 
 }
 
+.scrollbar-sidebar.ps {
+    background-color: #212121 !important;
+}
+
+.bg-primary {
+    background-color: #1d1e20 !important;
+}
 
 .card {
-    background: #181818 !important;
+    background: #212121 !important;
 }
 
 .list-group-item {
-    background: rgb(9, 8, 39) !important;
+    background: #181818 !important;
 }
 
 .card-header {
-    background: rgb(9, 8, 39) !important;
+    background: #181818 !important;
 }
 
 div{
