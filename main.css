@@ -32,12 +32,16 @@ html body {
     background: #181818 !important;
 }
 
-.card-header {
+.card-header{
     background: #181818 !important;
 }
 
-div{
+div, h4, h5, h1,h2,h3{
     color: whitesmoke !important;
+}
+
+tr:hover {
+    background-color: #292a2d !important;
 }
 
 
