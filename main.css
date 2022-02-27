@@ -1,45 +1,20 @@
 html body {
     background: #181818 !important;
 }
-
-.app-theme-white .app-page-title {
-    background: #181818 !important;
-}
-
-.app-theme-white .app-footer .app-footer__inner, .app-theme-white .app-header  {
+.app-theme-white .app-footer .app-footer__inner, .app-theme-white .app-header, .app-main__inner ,.app-theme-white .app-page-title, .list-group-item, .card-header {
     background: #181818 !important;
 
 }
-
-.app-main__inner {
-    background: #181818 !important;
-
-}
-
-.scrollbar-sidebar.ps {
+.scrollbar-sidebar.ps, .card {
     background-color: #212121 !important;
 }
 
 .bg-primary {
     background-color: #1d1e20 !important;
 }
-
-.card {
-    background: #212121 !important;
-}
-
-.list-group-item {
-    background: #181818 !important;
-}
-
-.card-header{
-    background: #181818 !important;
-}
-
 div, h4, h5, h1,h2,h3{
     color: whitesmoke !important;
 }
-
 tr:hover {
     background-color: #292a2d !important;
 }
