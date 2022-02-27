@@ -7,7 +7,7 @@
 
 ### - Run this command to download files
 ```
-- git clone https://github.com/Elsokkary101/GUC_CMS_extension.git
+git clone https://github.com/Elsokkary101/GUC_CMS_extension.git
 ```
 ### - Open google extensions and activate developer mode
 ### - click on load unpacked and then choose the folder that you've just cloned
